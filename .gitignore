@@ -1,0 +1,6 @@
+/.vscode/
+/target
+/test
+*.bin
+*.exe
+*.CETRAINER
